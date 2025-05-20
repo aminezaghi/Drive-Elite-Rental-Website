@@ -4,13 +4,11 @@ A modern, responsive car rental website built with Next.js and TypeScript, offer
 
 ## 🚀 Live Demo
 
-Visit the live website: [Drive Elite](https://car-rental-zaghi.vercel.app)
+Visit the live website: [Drive Elite](https://drive-elite-rental-website.vercel.app/)
 
 ## 📸 Screenshots
 
 ![Hero Section](https://images.unsplash.com/photo-1580273916550-e323be2ae537?q=80&w=1964&auto=format&fit=crop)
-![Car Listing](https://images.unsplash.com/photo-1550355291-bbee04a92027?q=80&w=1936&auto=format&fit=crop)
-![Promotions](https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?q=80&w=1974&auto=format&fit=crop)
 
 ## ✨ Features
 
@@ -67,7 +65,7 @@ Visit the live website: [Drive Elite](https://car-rental-zaghi.vercel.app)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/car-rental-website.git
+   git clone https://github.com/aminezaghi/Drive-Elite-Rental-Website.git
    cd car-rental-website
    ```
 
