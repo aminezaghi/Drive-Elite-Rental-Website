@@ -1,6 +1,7 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
+import { Analytics } from "@vercel/analytics/react"
 import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 import { Toaster } from "sonner"
@@ -78,6 +79,7 @@ export default function RootLayout({
           {children}
           <Footer />
           <Toaster position="top-right" richColors />
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>
