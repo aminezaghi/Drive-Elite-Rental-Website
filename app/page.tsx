@@ -129,21 +129,21 @@ export default function Home() {
               category="SUV"
               price={199}
               features={["5 Seats", "Automatic", "AC", "GPS"]}
-              imageUrl="https://images.unsplash.com/photo-1550355291-bbee04a92027?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              imageUrl="https://images.unsplash.com/photo-1725815760850-fa5901743fc7?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             />
             <CarCard
               name="Mercedes-Benz E-Class"
               category="Sedan"
               price={189}
               features={["5 Seats", "Automatic", "AC", "GPS"]}
-              imageUrl="https://images.unsplash.com/photo-1549399542-7e3f8b79c341?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              imageUrl="https://images.unsplash.com/photo-1660108155084-e8d328530575?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             />
             <CarCard
               name="BMW X5"
               category="SUV"
               price={229}
               features={["7 Seats", "Automatic", "AC", "GPS"]}
-              imageUrl="https://images.unsplash.com/photo-1556189250-72ba954cfc2b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              imageUrl="https://images.unsplash.com/photo-1609184166822-bd1f1b991a06?q=80&w=2099&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             />
           </div>
         </div>
